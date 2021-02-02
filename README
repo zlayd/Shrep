@@ -29,7 +29,7 @@ you'll get errors if you don't have these
 
 to compile shrep just run the "compile_shrep.sh" file (obviously),
 then run the shrep binary that was compiled
-if yer on linux anyway (also, you'll need gcc)
+if yer on linux anyway (also, you'll need gcc to compile shrep)
 
 if ya run windows i don't know what to tell you,
 i'm not very familiar with it,
